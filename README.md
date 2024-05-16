@@ -20,8 +20,8 @@ Hi There!!!
   
 <!-- Social Media Links -->  
 <p align="center">  
- <a href="[Your LinkedIn URL]"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"></a>  
- <a href="[Your Instagram URL]"><img src="https://img.shields.io/badge/-Instagram-pink?style=flat&logo=instagram&logoColor=white"></a>  
+ <a href="https://www.linkedin.com/in/martagm-pythonisa-5b33382a2/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"></a>  
+ <a href="https://www.instagram.com/martiunk/?next=%2F"><img src="https://img.shields.io/badge/-Instagram-pink?style=flat&logo=instagram&logoColor=white"></a>  
   
   <!-- Add more social media links as needed -->  
 </p>  
