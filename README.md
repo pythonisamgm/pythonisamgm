@@ -4,6 +4,9 @@ Hi There!!!
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/nFLW7PNGgN3lI68rdv/giphy.gif" width="400"/></div>
 
+---
+
+### :woman_technologist: About Me :
  - 🎓 I'm BMus(Hons) and PGDip Graduated in Westminster University.
    
  - 🎻 I’m currently working as a freelance Violinist.  
@@ -16,7 +19,7 @@ Hi There!!!
 <!-- Skills -->  
 <h3 align="center">Skills</h3>  
 <p align="center">Python | HTML | CSS | Flask | Bootstrap | Git</p>  
-<p> English Certificate in Advanced English. Native Spanish speaker</p>  
+<p align="center"> English Certificate in Advanced English. Native Spanish speaker</p>  
   
 <!-- Social Media Links -->  
 <p align="center">  
