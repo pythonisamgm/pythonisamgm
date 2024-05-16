@@ -1,7 +1,8 @@
 Hi There!!!
 
-I am Marta González Morales (aka @pythonisamgm)
- 
+<h1>I am Marta González Morales (aka @pythonisamgm)</h1>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/nFLW7PNGgN3lI68rdv/giphy.gif" width="400"/></div>
 
  - 🎓 I'm BMus(Hons) and PGDip Graduated in Westminster University.
    
@@ -26,10 +27,9 @@ I am Marta González Morales (aka @pythonisamgm)
 </p>  
   
 <!-- GitHub Stats -->  
-<h3 align="center">GitHub Stats</h3>  
-<p align="center">  
- <img src="https://github-readme-stats.vercel.app/api?username=@pythonisamgm&show_icons=true&theme=radical">  
-</p>  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pythonisamgm)](https://github.com/anuraghazra/github-readme-stats) 
+<!-- languages -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pythonisamgm&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
   
 </body>  
 </html>
