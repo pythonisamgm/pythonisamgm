@@ -23,7 +23,7 @@ Hi There!!!
   
 <!-- Social Media Links -->  
 <p align="center">  
- <a href="https://www.linkedin.com/in/martagm-pythonisa-5b33382a2/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"></a>  
+ <a href="linkedin.com/in/marta-gonzález-morales-6938b5119"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"></a>  
  <a href="https://www.instagram.com/martiunk/?next=%2F"><img src="https://img.shields.io/badge/-Instagram-pink?style=flat&logo=instagram&logoColor=white"></a>  
   
   <!-- Add more social media links as needed -->  
